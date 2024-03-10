@@ -47,6 +47,7 @@ class ArraySort {
     }
 
     public void insertionSort() {
+        // napiyorsun lan
         int in, out;
         for (out = 1; out < nElems; out++) {
             long temp = a[out];
